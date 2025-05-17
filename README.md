@@ -87,7 +87,7 @@ Reflection:
 1. What was the problem you were solving in the projects for this course?
 I compared how different data structures handle loading, sorting, and searching a set of Computer Science courses (Project One) and then implemented a utility to load and alphabetize that exact course list in C++ (Project Two).
 
-2. How did you approach the problem? Consider why data structures are important to understand.
+2. How did you approach the problem? Could you explain why data structures are important to understand?
 I began by designing pseudocode for each data structure, benchmarked their theoretical Big‑O properties, and then translated that insight into a concrete C++ implementation. Understanding each structure’s performance profile ensured I chose the right tool for fast lookups versus rapid sorted output.
 
 3. How did you overcome any roadblocks you encountered?
